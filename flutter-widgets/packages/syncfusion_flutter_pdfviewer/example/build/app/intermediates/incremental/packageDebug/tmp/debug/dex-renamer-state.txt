@@ -1,0 +1,4 @@
+#Wed Jun 21 14:01:15 ALMT 2023
+base.0=D\:\\Packages\\s_fork\\flutter-widgets\\packages\\syncfusion_flutter_pdfviewer\\example\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
